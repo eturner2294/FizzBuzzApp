@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MvbWBmugBYrwtLAun3/d5LQ4U7iQdv4ChqvQMC1eZWgU69wqooRM3i4gBnrI8u9TMz9VcdDLOggPS3T7SQW69A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eturn\\OneDrive\\Documents\\git\\FizzBuzz\\FizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eturn\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

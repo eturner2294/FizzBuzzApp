@@ -8,14 +8,16 @@ namespace FizzBuzz
 {
     public class Fizz : Rule
     {
+        //If divisible by 3, return true.
         public bool ruleSatisfied(int val)
         {
-            throw new NotImplementedException(); 
+            return val % 3 == 0; 
         }
 
+        //Print fizz
         public void doThing()
         {
-
+            Console.WriteLine("Fizz"); 
         }
     }
 }

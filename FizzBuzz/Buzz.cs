@@ -8,14 +8,16 @@ namespace FizzBuzz
 {
     public class Buzz : Rule
     {
+        //If divisible by 5, return true. 
         public bool ruleSatisfied(int val)
         {
-            throw new NotImplementedException();
+            return val % 5 == 0; 
         }
 
+        //print buzz
         public void doThing()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("Buzz");
         }
     }
 }

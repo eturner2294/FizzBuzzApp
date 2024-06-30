@@ -117,3 +117,4 @@ C:\Users\eturn\OneDrive\Documents\git\FizzBuzzTests2\obj\Debug\net8.0\refint\Fiz
 C:\Users\eturn\OneDrive\Documents\git\FizzBuzzTests2\obj\Debug\net8.0\FizzBuzzTests2.pdb
 C:\Users\eturn\OneDrive\Documents\git\FizzBuzzTests2\obj\Debug\net8.0\FizzBuzzTests2.genruntimeconfig.cache
 C:\Users\eturn\OneDrive\Documents\git\FizzBuzzTests2\obj\Debug\net8.0\ref\FizzBuzzTests2.dll
+C:\Users\eturn\OneDrive\Documents\git\FizzBuzzTests2\obj\Debug\net8.0\FizzBuzzTests2.sourcelink.json
